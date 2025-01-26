@@ -15,9 +15,22 @@
 		174EF35E2D46CB10008FD2A4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
+/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
+		174EF38E2D46D3CA008FD2A4 /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */ = {
+			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
+			membershipExceptions = (
+				Info.plist,
+			);
+			target = 174EF2C52D468E3B008FD2A4 /* IOS101-Prework */;
+		};
+/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
+
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		174EF2C82D468E3B008FD2A4 /* IOS101-Prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
+			exceptions = (
+				174EF38E2D46D3CA008FD2A4 /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */,
+			);
 			path = "IOS101-Prework";
 			sourceTree = "<group>";
 		};
