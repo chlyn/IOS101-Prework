@@ -6,26 +6,18 @@
 	objectVersion = 77;
 	objects = {
 
+/* Begin PBXBuildFile section */
+		174EF36A2D46CB10008FD2A4 /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = 174EF35E2D46CB10008FD2A4 /* README.md */; };
+/* End PBXBuildFile section */
+
 /* Begin PBXFileReference section */
 		174EF2C62D468E3B008FD2A4 /* IOS101-Prework.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "IOS101-Prework.app"; sourceTree = BUILT_PRODUCTS_DIR; };
+		174EF35E2D46CB10008FD2A4 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
-
-/* Begin PBXFileSystemSynchronizedBuildFileExceptionSet section */
-		174EF2D82D468E3D008FD2A4 /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */ = {
-			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
-			membershipExceptions = (
-				Info.plist,
-			);
-			target = 174EF2C52D468E3B008FD2A4 /* IOS101-Prework */;
-		};
-/* End PBXFileSystemSynchronizedBuildFileExceptionSet section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
 		174EF2C82D468E3B008FD2A4 /* IOS101-Prework */ = {
 			isa = PBXFileSystemSynchronizedRootGroup;
-			exceptions = (
-				174EF2D82D468E3D008FD2A4 /* Exceptions for "IOS101-Prework" folder in "IOS101-Prework" target */,
-			);
 			path = "IOS101-Prework";
 			sourceTree = "<group>";
 		};
@@ -47,6 +39,7 @@
 			children = (
 				174EF2C82D468E3B008FD2A4 /* IOS101-Prework */,
 				174EF2C72D468E3B008FD2A4 /* Products */,
+				174EF35E2D46CB10008FD2A4 /* README.md */,
 			);
 			sourceTree = "<group>";
 		};
@@ -122,6 +115,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				174EF36A2D46CB10008FD2A4 /* README.md in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
